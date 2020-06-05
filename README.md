@@ -1,4 +1,4 @@
-# Projeto: Be the hero
+# Projeto: Be the Hero
 
 Backend da aplicação Be the Hero
 
